@@ -5,10 +5,15 @@ This is an independence injection framework, which is created for building light
 
 本框架要实现和解决的主要问题有：
   1 自主管理的UI界面栈
+  
   2 明确的MVC模式，原Acitity中既有视图逻辑 也有控制逻辑，现在使用明确的Page与Controller将视图与控制分离解耦
+  
   3 提升UI性能 有效降低Android应用的卡顿延迟现象
+  
   4 对程序性能实现有效的统计与监控
+  
   5 稳定性与健壮性
+  
   6 单元测试
 
 本框架的设计原则

@@ -44,7 +44,7 @@ This is an independence injection framework, which is created for building light
   ![fpstack figure](https://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/fpstack_image1.PNG)
   
   
-  ![fpstack framework architecture](http://github.com/elphinkuo/lightDroid/blob/master/images/fpstack_image2.PNG)
+  ![fpstack framework architecture](https://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/fpstack_image2.PNG)
   
   
   

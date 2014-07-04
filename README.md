@@ -42,7 +42,7 @@ This is an independence injection framework, which is created for building light
 有关UI界面栈
   实现在/framework/app/fpstack中
   
-  ![Image text](https://github.com/elphinkuo/lightDroid/blob/master/images/fpstack_image1.PNG）
+  [Image text](https://github.com/elphinkuo/lightDroid/blob/master/images/fpstack_image1.PNG）
   
   
   

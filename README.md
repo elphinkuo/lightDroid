@@ -51,4 +51,7 @@ This is an independence injection framework, which is created for building light
   
 有关MVC
   实现在/framework/app/mvc中
+  
+  ![MVC Map](http://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/MVC.PNG)
+  
   具体阐释稍后补上

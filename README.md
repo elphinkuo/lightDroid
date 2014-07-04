@@ -32,7 +32,7 @@ This is an independence injection framework, which is created for building light
 整体应用架构如下：
 
 
-    ![App Architecture](http://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/AppArchitecture.PNG)
+    ![App Architecture](https://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/AppArchitecture.PNG)
 
 
             

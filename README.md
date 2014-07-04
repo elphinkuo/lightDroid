@@ -32,14 +32,17 @@ This is an independence injection framework, which is created for building light
 整体应用架构如下：
 
 
-    ![App Architecture](https://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/AppArchitecture.PNG)
+  ![App Architecture](https://raw.githubusercontent.com/elphinkuo/lightDroid/master/images/AppArchitecture.PNG)
+  
 
 
             
 有关UI界面栈
   实现在/framework/app/fpstack中
   
+  
   ![fpstack figure](http://github.com/elphinkuo/lightDroid/blob/master/images/fpstack_image1.PNG)
+  
   
   ![fpstack framework architecture](http://github.com/elphinkuo/lightDroid/blob/master/images/fpstack_image2.PNG)
   

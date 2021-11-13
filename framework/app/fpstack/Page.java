@@ -6,12 +6,12 @@ import android.os.Bundle;
 import com.elphin.framework.app.mvc.View;
 
 /**
- * 页面抽象接口
+ * Abstract interface for Page
  * </p>
  *
  * @version 1.0
  * @author  elphin
- * @date 13-5-26 下午1:44
+ * @date 13-5-26 1:44 pm
  */
 public interface Page extends View {
     /**

@@ -3,8 +3,7 @@ package com.elphin.framework.app.fpstack;
 import android.text.TextUtils;
 
 /**
- * 页面注册注解处理器
- *
+ *  The processor for annotation of page register
  * @author elphin
  * @version 1.0.0
  * @date 2013-6-29

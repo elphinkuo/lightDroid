@@ -5,7 +5,7 @@ package com.elphin.framework.exception;
  *
  * @author elphin
  * @version 1.0
- * @date 13-7-29 下午3:02
+ * @date 13-7-29 3:02pm
  */
 public class BMException extends Exception {
     public BMException(String message) {

@@ -3,14 +3,14 @@ package com.elphin.framework.app.fpstack;
 import java.util.Stack;
 
 /**
- * 可重新排序的stack
+ * stack with the ability to reorder
  *
  * <p>
- * 如果栈中已有需要push的元素，把已有的元素移动到栈顶，栈中不存在重复元素。
+ * If there is an element to be pushed, move the current element to the top of the stack, there is no duplicated element in the stack 
  * </p>
  * @author elphin
  * @version 1.0
- * @date 13-6-18 下午12:12
+ * @date 13-6-18 12:12pm
  */
 class ReorderStack<T> extends Stack<T> {
 

@@ -5,7 +5,7 @@ package com.elphin.framework.exception;
  *
  * @author elphin
  * @version 1.0
- * @date 13-7-29 下午3:03
+ * @date 13-7-29 3:03pm
  */
 public class BMRuntimeException extends RuntimeException {
 

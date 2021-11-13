@@ -8,12 +8,12 @@ import java.util.LinkedHashMap;
 import com.baidu.map.components.platform.manager.ComponentManager;
 
 /**
- * 页面生成工厂类
- * <p>生成并维护page的实例，page实例依据类名和tag标识</p>
+ * Factory Implementation class for pages
+ * <p>Geneate and maintain the instance of page. Page instance is identified by class name and tag</p>
  *
  * @version 1.0
  * @author elphin
- * @date 13-6-4 下午11:14
+ * @date 13-6-4 11:14pm
  */
 class PageFactoryImpl implements PageFactory {
 

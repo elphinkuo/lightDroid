@@ -6,11 +6,11 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 页面注册 Annotation
+ * Page Register Annotation
  *
  * @author elphin
  * @version 1.0
- * @date 13-6-29 下午5:26
+ * @date 13-6-29 5:26pm
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

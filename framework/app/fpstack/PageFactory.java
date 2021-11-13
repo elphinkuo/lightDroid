@@ -1,13 +1,13 @@
 package com.elphin.framework.app.fpstack;
 
 /**
- * 页面工厂接口</p>
- *
- * 页面为单实例，不支持同一个页面的多个实例</p>
+ * Page Factory interface</p>
+ * Page is designed as single instance, we do not support multi instances for the same page.
+ * </p>
  *
  * @version 1.0
  * @author elphin
- * @Date: 13-6-8 下午4:33
+ * @Date: 13-6-8 4:33pm
  */
 interface PageFactory {
     String DEFAULT_PAGE_TAG = "";

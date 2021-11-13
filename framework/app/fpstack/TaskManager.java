@@ -8,11 +8,11 @@ import android.os.Parcelable;
 import java.net.URI;
 
 /**
- * 页面栈管理接口
+ * Task manager interface
  *
  * @author elphin
  * @version 1.0
- * @date 13-6-14 下午8:02
+ * @date 13-6-14 8:02pm
  */
 public interface TaskManager {
     // stack strategy

@@ -4,11 +4,11 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * 页面历史记录</p>
+ * HistoryRecord about page
  *
  * @version 1.0
  * @author  elphin
- * @date 13-6-8 下午6:43
+ * @date 13-6-8 6:43 pm
  */
 public class HistoryRecord implements Parcelable {
 

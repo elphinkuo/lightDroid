@@ -17,14 +17,14 @@ import java.util.Observable;
 
 
 /**
- * 页面基类实现
+ * Implementation of base class BasePage
  * <p>
- *    页面基类使用时注意View的生命周期和整个Fragment的生命周期
+ *    Pay attemtion to the LifeCycle of View and Fragment when using BasePage
  * </p>
  *
  * @version 1.0
  * @author elphinkuo
- * @date 13-5-26 下午3:47
+ * @date 13-5-26 3:47 pm
  */
 public class BasePage extends Fragment implements Page {
 

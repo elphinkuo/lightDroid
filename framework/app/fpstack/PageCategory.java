@@ -4,7 +4,7 @@ import com.baidu.map.components.platform.manager.IComConsts;
 import com.baidu.map.components.platform.manager.utils.PreferenceUtils;
 
 /**
- * 页面类型，区分地图和组件页面 User: elphin Date: 13-8-5 Time: 下午1:38 Add By Component
+ * Page Category, to distinguish map and module page.User: elphin Date: 13-8-5 Time: 1:38 pm Add By Component
  * platform
  */
 public enum PageCategory {

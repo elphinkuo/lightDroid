@@ -19,11 +19,11 @@ import java.net.URI;
 import java.util.*;
 
 /**
- * <p>页面栈管理类,该类不是线程安全的，必须在主线程调用</p>
+ * <p>Task manager Impl, not thread-safe, must be called in the main thread</p>
  *
  * @author elphin
  * @version 1.0
- * @date 13-5-26 下午2:17
+ * @date 13-5-26 2:17pm
  */
 class TaskManagerImpl implements TaskManager {
 

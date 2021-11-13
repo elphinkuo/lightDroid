@@ -19,12 +19,11 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 /**
- *  Task的基类实现，以FragmentActivity作为载体，子页面用Fragment实现
- *  </p>
+ *  Implementation of base class Task, based on FragmentActivity, child page based on Fragment
  *
  * @version 1.0
  * @author  elphinkuo
- * @date 13-5-26 下午3:53
+ * @date 13-5-26 3:53 pm
  */
 public abstract class BaseTask extends FragmentActivity implements Task {
     private static final boolean DEBUG = false;

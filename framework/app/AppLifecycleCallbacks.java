@@ -1,11 +1,11 @@
 package com.elphin.framework.app;
 
 /**
- * App 生命周期回调
+ * App Lifecycle Callback
  *
  * @author elphinkuo
  * @version 1.0
- * @date 13-7-2 上午11:45
+ * @date 13-7-2 11:45am
  */
 public interface AppLifecycleCallbacks {
     /**

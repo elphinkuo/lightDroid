@@ -4,11 +4,11 @@ import android.content.Intent;
 import android.os.Bundle;
 
 /**
- * 页面栈的抽象接口
+ * The abstract interface for the page stack
  * </p>
  * @version 1.0
  * @author elphin
- * @date 13-5-26 午1:49
+ * @date 13-5-26 1:49pm
  */
 public interface Task {
 
